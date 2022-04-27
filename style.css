@@ -1,0 +1,17 @@
+
+
+body {
+    font-family: 'vazir';
+    color: #f4f4f4f4;
+   
+}
+
+.main-card {
+    max-width: 45rem;
+}
+
+
+.list-group-item-dark {
+    color: #f4f4f4f4;
+    border-bottom: 1px #f4f4f4f4 solid;
+}
